@@ -1,4 +1,4 @@
-package dev.krupa.keycloak.keycloak8890;
+package dev.krupa.keycloak.keycloak8990;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.*;
